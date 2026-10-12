@@ -1,0 +1,8 @@
+name,building,floor,noise,outlets,seating,group_friendly,hours,busiest_times,date_visited,notes
+Grainger Library (2nd Floor) - Commons,Grainger Library,2,Quiet,Many,Tables,No,8am - 11pm,"Afternoons, midterms week",10/12/2026,Outlets on various tables. The tables size vary being either four or six
+Grainger Library (2nd Floor) - West Lobby,Grainger Library,2,Quiet,Many,Mixed,No,8am - 11pm,"Afternoons, midterms week",10/12/2026,
+Grainger Library (2nd Floor) - East Lobby,Grainger Library,2,Quiet,Many,Mixed,No,8am - 11pm,"Afternoons, midterms week",10/12/2026,
+Grainger Library (1st Floor) - Commons,Grainger Library,1,Moderate,Some,Mixed,Yes,8am - 11pm,"Afternoons, midterms week",10/12/2026,
+Grainger Library (1st Floor) - East Lobby,Grainger Library,1,Moderate,Many,Mixed,Yes,8am - 11pm,"Afternoons, midterms week",10/12/2026,
+Grainger Library (3rd Floor) - Library Area,Grainger Library,3,Quiet,Many,Booths,No,8am - 11pm,"Afternoons, midterms week",10/12/2026,
+Grainger Library (4th Floor) - Commons,Grainger Library,4,Loud,Some,Mixed,Yes,8am - 11pm,"Afternoons, midterms week",,
